@@ -11,7 +11,7 @@ function CategoryItem({ category }) {
       />
       <div className="category-body-container">
         <h2>{title}</h2>
-        <p>Shop now</p>
+        <p>Shop Now</p>
       </div>
     </div>
   );
